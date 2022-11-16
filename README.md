@@ -8,3 +8,5 @@ Objectifs:
 - éliminer v>vmax et v<vmin
 - éliminer si l'association v,pos ne respecte pas les conditions de basculement 
 
+  
+  lien fmu : https://github.com/SizingLab/multirotor_trajectory_optimization/tree/main/openmdao
