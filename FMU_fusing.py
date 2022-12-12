@@ -25,12 +25,9 @@ print(speeds)
 print(cons)
 
 
-# my code
-samplenode3 = [25, 30, 22, 32, 31.9]
-samplecons3 = [0.8, 0, 0.2, 0]
-
-#we will have a list “nodes” that is updated continuously instead
-#same for cons, this is updated after each FMU
+# FUSING CODE
+samplenode3 = [25, 30, 22, 32, 31.9] # this is a sample code for speeds, updated after each FMU
+samplecons3 = [0.8, 0, 0.2, 0] # this is a sample code for consumptions, updated after each FMU
 
 position_list = []
 for i in range(1, len(samplenode3)):
